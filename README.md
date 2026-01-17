@@ -16,6 +16,8 @@ This project covers the fundamental operators in Python, categorized into Assign
 
 Assignment - 4 Overview (8 Questions)
 
+A collection of 8 questions demonstrating the practical use of while loops to solve mathematical problems and create interactive logic.
+
     1 to 50 Printer: Simple counter logic.
     
     Even Numbers: Filtering numbers within a range.
