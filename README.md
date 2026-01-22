@@ -33,6 +33,35 @@ A collection of 8 questions demonstrating the practical use of while loops to so
     Palindrome Checker: Logic to verify symmetrical numbers.
     
     Guess the Number: An interactive game using random and while loops.
+
+Assignment - 5 For Loop (18 Questioons)
+
+1. Basic Iteration
+   
+       Print 1 to n: Standard forward iteration.
+
+Print n to 1: Reverse iteration practice.
+
+       Print Even/Odd numbers: Using step values in range().
+       Print Even/Odd numbers: Using step values in range().
+
+2. Mathematical Logic & Aggregation
+       
+       Sum of 1 to n: Basic accumulation.
+       Sum of Odd & Even: Calculating separate totals for parity-based numbers.
+       
+       Factorial of a Number: Iterative product calculation.
+       Power Calculation.
+       Find Largest/Smallest: Identifying extrema within a user-provided list.
+
+4. Number Theory
+   
+        Prime Number Checker: Determining primality for a single integer.
+        Prime Numbers (1 to n): Generating a list of primes using nested loops.
+   
+6. Pattern Printing
+
+       Right-Angle Triangle: Standard star pattern.
     
 
 
