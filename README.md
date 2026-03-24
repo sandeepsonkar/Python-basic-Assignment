@@ -62,6 +62,32 @@ Print n to 1: Reverse iteration practice.
 6. Pattern Printing
 
        Right-Angle Triangle: Standard star pattern.
+
+7. Mini Project
+   1. Guess the Number
+
+        ## 📌 Description
+        A simple Python game where the user tries to guess a randomly generated number between 1 and 100.
+        
+        ## 🚀 Features
+        - Random number generation
+        - User input handling
+        - Quit option using 'Q'
+        - Input validation (handles invalid inputs)
+        
+        ## 🛠️ Technologies Used
+        - Python
+        
+        ## ▶️ How to Run
+        1. Clone the repository
+        2. Run:
+           python game.py
+        
+        ## 📷 Sample Output
+        Guess the target or Quit(Q): 50
+        Too High!
+        Guess the target or Quit(Q): 25
+        Too Low!
     
 
 
